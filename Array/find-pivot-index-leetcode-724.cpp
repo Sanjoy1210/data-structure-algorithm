@@ -1,3 +1,11 @@
+/* 
+  Title - 724. Find pivot index
+  Link - https://leetcode.com/problems/find-pivot-index/
+  Author - Sanjoy Paul
+
+ */
+
+
 #include <iostream>
 using namespace std;
 

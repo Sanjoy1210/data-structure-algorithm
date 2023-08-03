@@ -1,6 +1,7 @@
 /* 
-  Title - Sort 0 1 2
-  Link - https://www.codingninjas.com/studio/problems/sort-0-1-2_631055
+  Title - Sort 0 1 2, 75. Sort Colors
+  Links - https://www.codingninjas.com/studio/problems/sort-0-1-2_631055
+         https://leetcode.com/problems/sort-colors/
   Author - Sanjoy Paul
   Approach - DNF (Dutch National Flag) Method
 
